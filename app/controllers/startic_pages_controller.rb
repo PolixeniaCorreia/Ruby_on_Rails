@@ -1,7 +1,7 @@
 class StarticPagesController < ApplicationController
 
   def index
-    @nome = "Poli"
+    @nome = "Polixênia"
   end
 
 end
